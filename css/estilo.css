@@ -1,0 +1,56 @@
+h2 {
+    margin-left: 780px;
+}
+p {
+    margin-left: 200px;
+    margin-right: 200px;
+    font: bold;
+}
+.banner {
+   height: 511px;
+   width: 1880px;
+}
+.betta {
+    width: 400px;
+    height: 500px;
+    display: table-cell;
+    float: left;
+    margin: 25px;
+
+}
+.palhaco {
+    width: 400px;
+    height: 500px;
+    display: table-cell;
+    float: right;
+    margin: 25px;
+
+}
+.texto {
+    display: table-cell;
+    margin-left: 489px;
+    float: right;
+    float: left;
+}
+.conteudo {
+    display: table;
+}
+.lista {
+    float: left;
+    
+}
+.texto1{
+    width: 1000px;
+    
+}
+h3 {
+    margin-left: 200px;
+    margin-right: 200px;
+    font: bold;
+}
+.lamp {
+    width: 780px;
+    height: 815px;
+}
+
+    
